@@ -16,6 +16,8 @@
   <img align="left" alt="Abhinandan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=abhinandanrai.abhinandanrai)
+
 <br />
 <br />
 
