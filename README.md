@@ -19,7 +19,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abhinandanrai.abhinandanrai)
 
 <br />
-<br />
 
 Hi, I'm Abhinandan Rai, a data enthusiast 🚀 from India, completed 🎓 PGP in Data Science & Engineering from 🙍🏽‍♂️ <code><img height="20" src="https://d9jmtjs5r4cgq.cloudfront.net/images/branding/greatlearning-brand.png"></code> [@greatlearning](https://www.greatlearning.in/) this year, and looking for a full-time role in Data Science, Machine Learning or related field.
 
