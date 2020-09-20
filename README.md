@@ -24,7 +24,7 @@ Hi, I'm Abhinandan Rai, a data enthusiast 🚀 from India, completed 🎓 PGP in
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m Currently working on some cool Machine Learning projects :wink:
-- 🌱 I’m currently learning DL 
+- 🌱 I’m currently learning DL and NLP
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: abhinandan9rai@gmail.com
 
