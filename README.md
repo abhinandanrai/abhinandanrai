@@ -18,7 +18,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhinandanrai.abhinandanrai)
 
-Hi, I'm Abhinandan Rai, a data enthusiast 🚀 from India, completed 🎓 PGP in Data Science & Engineering from 🙍🏽‍♂️ <code><img height="20" src="https://d9jmtjs5r4cgq.cloudfront.net/images/branding/greatlearning-brand.png"></code> [@greatlearning](https://www.greatlearning.in/) this year, and looking for a full-time role in Data Science, Machine Learning or related field.
+Hi, I'm Abhinandan Rai, a data enthusiast 🚀 from India, completed 🎓 PGP in Data Science & Engineering from 🙍🏽‍♂️ <code><img height="20" src="https://d9jmtjs5r4cgq.cloudfront.net/images/branding/greatlearning-brand.png"></code> [@greatlearning](https://www.greatlearning.in/) this year, Currently working in <code><img height="20" src="https://www.annalect.com/wp-content/uploads/2018/05/annalect_logo_400x113.png"></code> [@annalect](https://www.annalect.com/)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l4JzdwJ33hz12Gw6s/giphy.gif" />
 
