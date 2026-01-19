@@ -24,9 +24,9 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 
 ## 👨🏽‍💻 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<table style="border: none;">
+<tr style="border: none;">
+<td width="65%" valign="top" style="border: none; padding-right: 20px;">
 
 - 📊 Hands-on experience working with **real-world datasets**
 - 🧩 Comfortable with **SQL, Python, and data transformation workflows**
@@ -34,13 +34,14 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 - 🎯 Interested in growing towards **Data Engineering and Machine Learning**
 
 </td>
-<td width="35%" align="right" valign="top">
+<td width="35%" align="right" valign="top" style="border: none;">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 </td>
 </tr>
 </table>
+
 
 ---
 
