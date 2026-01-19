@@ -1,10 +1,28 @@
 ### Hey there 👋
 
-[LinkedIn](https://www.linkedin.com/in/abhinandanrai) ·
-[X](https://x.com/abhinandanrai_) ·
-[Instagram](https://www.instagram.com/abhinandan_rai_/) ·
-[Medium](https://medium.com/@abhinandanrai) ·
-[Kaggle](https://www.kaggle.com/abhinandanrai)
+<a href="https://www.linkedin.com/in/abhinandanrai/">
+  <img align="left" alt="LinkedIn" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/abhinandanrai_">
+  <img align="left" alt="Twitter" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/abhinandan_rai_/">
+  <img align="left" alt="Instagram" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://medium.com/@abhinandanrai">
+  <img align="left" alt="Medium" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://www.kaggle.com/abhinandanrai">
+  <img align="left" alt="Kaggle" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
+
+<br/><br/>
+
 
 
 Hi, I’m **Abhinandan Rai**, an **Analytics Engineer** 🚀 from India.
