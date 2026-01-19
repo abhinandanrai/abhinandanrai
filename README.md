@@ -22,8 +22,6 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 
 ---
 
-<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 👨🏽‍💻 About Me
 - 📊 Hands-on experience working with **real-world datasets**
 - 🧩 Comfortable with **SQL, Python, and data transformation workflows**
@@ -60,12 +58,27 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 
 ## 🛠️ Languages & Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+### Programming & Querying
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+
+### Data Engineering & Processing
+<code><img height="20" src="https://spark.apache.org/images/spark-logo-trademark.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"></code>
+<code><img height="20" src="https://airflow.apache.org/images/feature-image.png"></code>
+
+### Analytics Engineering & BI
+<code><img height="20" src="https://seeklogo.com/images/D/dbt-logo-E4B0FF6E65-seeklogo.com.png"></code>
+<code><img height="20" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_Data_Studio_Logo.png"></code>
+
+### Machine Learning & Analysis
 <code><img height="20" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
 <code><img height="20" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
-<code><img height="20" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png"></code>
+
+### Version Control & Workflow
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 
 ---
 
