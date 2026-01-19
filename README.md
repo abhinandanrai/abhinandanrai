@@ -20,7 +20,8 @@
 
 Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused professional** 🚀 from India.
 
-<img align="right" width="240" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ---
 
