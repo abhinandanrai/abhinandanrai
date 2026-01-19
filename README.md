@@ -1,20 +1,10 @@
 ### Hey there 👋
 
-<a href="https://www.linkedin.com/in/abhinandanrai">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=" height="24"/>
-</a>
-<a href="https://x.com/abhinandanrai_">
-  <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white&label=" height="24"/>
-</a>
-<a href="https://www.instagram.com/abhinandan_rai_/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&label=" height="24"/>
-</a>
-<a href="https://medium.com/@abhinandanrai">
-  <img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white&label=" height="24"/>
-</a>
-<a href="https://www.kaggle.com/abhinandanrai">
-  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white&label=" height="24"/>
-</a>
+[LinkedIn](https://www.linkedin.com/in/abhinandanrai) ·
+[X](https://x.com/abhinandanrai_) ·
+[Instagram](https://www.instagram.com/abhinandan_rai_/) ·
+[Medium](https://medium.com/@abhinandanrai) ·
+[Kaggle](https://www.kaggle.com/abhinandanrai)
 
 
 Hi, I’m **Abhinandan Rai**, an **Analytics Engineer** 🚀 from India.
