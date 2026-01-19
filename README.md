@@ -20,9 +20,11 @@
 
 Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused professional** 🚀 from India.
 
----
+<p align="right">
+  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+---
 
 ## 👨🏽‍💻 About Me
 - 📊 Hands-on experience working with **real-world datasets**
@@ -77,6 +79,8 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 ### Machine Learning & Analysis
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3C3C3C?style=flat)
 
 ### Version Control & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
