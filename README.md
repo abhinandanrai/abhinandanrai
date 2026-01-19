@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-Hi, I’m **Abhinandan Rai**, an **Analytics Engineering–focused professional** 🚀 from India.
+Hi, I’m **Abhinandan Rai**, an **Analytics Engineer** 🚀 from India.
 
 ---
 
