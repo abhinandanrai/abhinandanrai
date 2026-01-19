@@ -22,6 +22,8 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 
 ---
 
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ## 👨🏽‍💻 About Me
 - 📊 Hands-on experience working with **real-world datasets**
 - 🧩 Comfortable with **SQL, Python, and data transformation workflows**
@@ -40,17 +42,17 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 
 ## 🌱 Currently Learning
 - **PySpark & Big Data fundamentals**
-- **Machine Learning basics (supervised & unsupervised)**
-- **Airflow concepts for scheduling & orchestration**
-- **Better data modelling & system design**
+- **Airflow for scheduling & orchestration**
+- **dbt for analytics engineering**
+- **Machine Learning basics**
 
 ---
 
 ## 💬 Ask Me About
-- SQL & Python for analytics
-- Data cleaning & transformation
-- Dashboards (Tableau / Data Studio)
-- Getting started with data engineering
+- SQL & Python for analytics  
+- ETL pipelines & data modelling  
+- Dashboards (Tableau / Looker Studio)  
+- Moving from Analyst → Data Engineer  
 
 📫 **Reach me at:** abhinandan9rai@gmail.com
 
@@ -59,26 +61,26 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 ## 🛠️ Languages & Tools
 
 ### Programming & Querying
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
 ### Data Engineering & Processing
-<code><img height="20" src="https://spark.apache.org/images/spark-logo-trademark.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"></code>
-<code><img height="20" src="https://airflow.apache.org/images/feature-image.png"></code>
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 ### Analytics Engineering & BI
-<code><img height="20" src="https://seeklogo.com/images/D/dbt-logo-E4B0FF6E65-seeklogo.com.png"></code>
-<code><img height="20" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_Data_Studio_Logo.png"></code>
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
 
 ### Machine Learning & Analysis
-<code><img height="20" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
-<code><img height="20" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
 ### Version Control & Workflow
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
