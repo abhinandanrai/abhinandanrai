@@ -27,12 +27,11 @@ Hi, I’m **Abhinandan Rai**, an **Analytics Engineer** 🚀 from India.
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 📊 Hands-on experience working with **production data and business datasets** to support data-driven decision-making  
-- 🧩 Comfortable with **SQL, Python, and data transformation workflows** for analytics and reporting  
 - 🔁 Experience with **ETL pipelines, data modelling, and analytics engineering concepts**  
 - ⚙️ Exposure to **large-scale data pipelines** and workflow optimisation for operational efficiency  
-- 📈 Skilled in **collecting, analysing, and interpreting data** to deliver actionable business insights  
+- 📈 Skilled in **analysing and interpreting data** to deliver actionable business insights  
 - 🤖 Interested in applying **Machine Learning, AI, and advanced analytics** to solve complex business problems  
-- 🎯 Actively growing towards **Data Engineering and Machine Learning roles**
+- 🎯 Actively growing towards **Data Engineering and ML roles**
 
 <br clear="right"/>
 
