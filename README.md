@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering focused professional** 🚀 from India.
+Hi, I’m **Abhinandan Rai**, a **Analytics Engineering focused professional** 🚀 from India.
 
 ---
 
