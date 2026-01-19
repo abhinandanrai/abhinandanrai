@@ -1,48 +1,61 @@
 ### Hey there 👋
 
 <a href="https://www.linkedin.com/in/abhinandanrai/">
-  <img align="left" alt="Abhinandan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/abhinandanrai_">
-  <img align="left" alt="Abhinandan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/abhinandan_rai_/">
-  <img align="left" alt="Abhinandan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://medium.com/@abhinandanrai">
-  <img align="left" alt="Abhinandan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.kaggle.com/abhinandanrai">
-  <img align="left" alt="Abhinandan's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhinandanrai.abhinandanrai)
+<br/><br/>
 
 Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused professional** 🚀 from India.
 
+---
+
 ## 👨🏽‍💻 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+<tr>
+<td width="65%" valign="top">
 
 - 📊 Hands-on experience working with **real-world datasets**
 - 🧩 Comfortable with **SQL, Python, and data transformation workflows**
 - 🔁 Exposure to **ETL pipelines and analytics engineering concepts**
 - 🎯 Interested in growing towards **Data Engineering and Machine Learning**
 
+</td>
+<td width="35%" align="right" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 What I’m Working On
-- Building **data pipelines for analytics and reporting**
+- Building **data pipelines** for analytics and reporting
 - Writing **clean, efficient SQL & Python code**
 - Creating **dashboards and business-ready datasets**
-- Learning how data systems scale in production
+- Learning how **data systems scale in production**
 
 ---
 
 ## 🌱 Currently Learning
 - **PySpark & Big Data fundamentals**
-- **Airflow for scheduling & orchestration**
-- **dbt for analytics engineering**
+- **Airflow** for scheduling & orchestration
+- **dbt** for analytics engineering
 - **Machine Learning basics**
 
 ---
@@ -51,7 +64,7 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 - SQL & Python for analytics  
 - ETL pipelines & data modelling  
 - Dashboards (Tableau / Looker Studio)  
-- Moving from Analyst → Data Engineer  
+- Transitioning from Analyst → Data Engineer  
 
 📫 **Reach me at:** abhinandan9rai@gmail.com
 
