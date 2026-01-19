@@ -1,22 +1,27 @@
 ### Hey there 👋
 
-<a href="https://www.linkedin.com/in/abhinandanrai/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/abhinandanrai">
+  <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
 </a>
+
 <a href="https://x.com/abhinandanrai_">
-  <img align="left" alt="X" width="22px" src="https://img.shields.io/badge/X-%23EA4335?style=flat&logo=x-twitter&logoColor=white" />
+  <img align="left" alt="X (Twitter)" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />
 </a>
+
 <a href="https://www.instagram.com/abhinandan_rai_/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" />
 </a>
+
 <a href="https://medium.com/@abhinandanrai">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" />
 </a>
+
 <a href="https://www.kaggle.com/abhinandanrai">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+  <img align="left" alt="Kaggle" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kaggle.svg" />
 </a>
 
 <br/><br/>
+
 
 Hi, I’m **Abhinandan Rai**, an **Analytics Engineer** 🚀 from India.
 
