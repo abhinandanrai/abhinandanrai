@@ -1,27 +1,20 @@
 ### Hey there 👋
 
 <a href="https://www.linkedin.com/in/abhinandanrai">
-  <img alt="LinkedIn" width="28"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.png" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
 </a>
 <a href="https://x.com/abhinandanrai_">
-  <img alt="X" width="28"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.png" />
+  <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" height="28"/>
 </a>
 <a href="https://www.instagram.com/abhinandan_rai_/">
-  <img alt="Instagram" width="28"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.png" />
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28"/>
 </a>
 <a href="https://medium.com/@abhinandanrai">
-  <img alt="Medium" width="28"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.png" />
+  <img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" height="28"/>
 </a>
 <a href="https://www.kaggle.com/abhinandanrai">
-  <img alt="Kaggle" width="28"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kaggle.png" />
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="28"/>
 </a>
-
-<br/><br/>
 
 
 Hi, I’m **Abhinandan Rai**, an **Analytics Engineer** 🚀 from India.
