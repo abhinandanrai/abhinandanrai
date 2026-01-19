@@ -24,23 +24,15 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 
 ## 👨🏽‍💻 About Me
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="65%" valign="top">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 📊 Hands-on experience working with **real-world datasets**
 - 🧩 Comfortable with **SQL, Python, and data transformation workflows**
 - 🔁 Exposure to **ETL pipelines and analytics engineering concepts**
 - 🎯 Interested in growing towards **Data Engineering and Machine Learning**
 
-</td>
-<td width="35%" valign="top" align="right">
+<br clear="right"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
