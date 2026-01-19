@@ -1,31 +1,20 @@
 ### Hey there 👋
 
 <a href="https://www.linkedin.com/in/abhinandanrai">
-  <img align="left" alt="LinkedIn" width="24px"
-       src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg?color=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://x.com/abhinandanrai_">
-  <img align="left" alt="X (Twitter)" width="24px"
-       src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg?color=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
 </a>
-
 <a href="https://www.instagram.com/abhinandan_rai_/">
-  <img align="left" alt="Instagram" width="24px"
-       src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg?color=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
-
 <a href="https://medium.com/@abhinandanrai">
-  <img align="left" alt="Medium" width="24px"
-       src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg?color=white" />
+  <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
 </a>
-
 <a href="https://www.kaggle.com/abhinandanrai">
-  <img align="left" alt="Kaggle" width="24px"
-       src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kaggle.svg?color=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
 </a>
-
-<br/><br/>
 
 
 
