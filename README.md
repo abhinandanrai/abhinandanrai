@@ -20,13 +20,10 @@
 
 Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused professional** 🚀 from India.
 
-<p align="right">
-  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
-
----
-
 ## 👨🏽‍💻 About Me
+
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 - 📊 Hands-on experience working with **real-world datasets**
 - 🧩 Comfortable with **SQL, Python, and data transformation workflows**
 - 🔁 Exposure to **ETL pipelines and analytics engineering concepts**
