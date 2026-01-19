@@ -1,36 +1,28 @@
 ### Hey there 👋
 
-<a href="https://www.linkedin.com/in/abhinandanrai" title="LinkedIn">
-<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;">
-  <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 1 1 0-4.125 2.062 2.062 0 0 1 0 4.125zM6.814 20.452H3.861V9h2.953v11.452z"/>
-</svg>
+<a href="https://www.linkedin.com/in/abhinandanrai">
+  <img alt="LinkedIn" width="28"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.png" />
 </a>
-
-<a href="https://x.com/abhinandanrai_" title="X">
-<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle; margin-left:12px;">
-  <path d="M18.244 2H21.5l-7.5 8.57L22 22h-6.9l-5.4-6.5L4.3 22H1l8.1-9.3L2 2h7l4.9 5.9L18.244 2z"/>
-</svg>
+<a href="https://x.com/abhinandanrai_">
+  <img alt="X" width="28"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.png" />
 </a>
-
-<a href="https://www.instagram.com/abhinandan_rai_/" title="Instagram">
-<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle; margin-left:12px;">
-  <path d="M7.75 2h8.5A5.75 5.75 0 0 1 22 7.75v8.5A5.75 5.75 0 0 1 16.25 22h-8.5A5.75 5.75 0 0 1 2 16.25v-8.5A5.75 5.75 0 0 1 7.75 2zm0 1.5A4.25 4.25 0 0 0 3.5 7.75v8.5A4.25 4.25 0 0 0 7.75 20.5h8.5a4.25 4.25 0 0 0 4.25-4.25v-8.5A4.25 4.25 0 0 0 16.25 3.5h-8.5zM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 1.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zm5.25-.75a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
-</svg>
+<a href="https://www.instagram.com/abhinandan_rai_/">
+  <img alt="Instagram" width="28"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.png" />
 </a>
-
-<a href="https://medium.com/@abhinandanrai" title="Medium">
-<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle; margin-left:12px;">
-  <path d="M2 4.5h2.9l6.1 14.1 6.1-14.1H20v15h-2V7.8l-5.4 12.7h-1.2L6 7.8V19.5H4V6.2L2 4.5z"/>
-</svg>
+<a href="https://medium.com/@abhinandanrai">
+  <img alt="Medium" width="28"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.png" />
 </a>
-
-<a href="https://www.kaggle.com/abhinandanrai" title="Kaggle">
-<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle; margin-left:12px;">
-  <path d="M16.2 2h-2.8L7.8 9.2V2H5v20h2.8v-6.5l2.7-2.9 3.9 9.4h3.1l-5.2-11L16.2 2z"/>
-</svg>
+<a href="https://www.kaggle.com/abhinandanrai">
+  <img alt="Kaggle" width="28"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kaggle.png" />
 </a>
 
 <br/><br/>
+
 
 Hi, I’m **Abhinandan Rai**, an **Analytics Engineer** 🚀 from India.
 
