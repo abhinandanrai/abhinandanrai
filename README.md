@@ -20,12 +20,11 @@
 
 Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused professional** 🚀 from India.
 
-<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-
 ---
 
-### 👨🏽‍💻 About Me
+<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## 👨🏽‍💻 About Me
 - 📊 Hands-on experience working with **real-world datasets**
 - 🧩 Comfortable with **SQL, Python, and data transformation workflows**
 - 🔁 Exposure to **ETL pipelines and analytics engineering concepts**
@@ -33,7 +32,7 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 
 ---
 
-### 🚀 What I’m Working On
+## 🚀 What I’m Working On
 - Building **data pipelines for analytics and reporting**
 - Writing **clean, efficient SQL & Python code**
 - Creating **dashboards and business-ready datasets**
@@ -41,7 +40,7 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 - **PySpark & Big Data fundamentals**
 - **Machine Learning basics (supervised & unsupervised)**
 - **Airflow concepts for scheduling & orchestration**
@@ -49,7 +48,7 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 
 ---
 
-### 💬 Ask Me About
+## 💬 Ask Me About
 - SQL & Python for analytics
 - Data cleaning & transformation
 - Dashboards (Tableau / Data Studio)
@@ -59,7 +58,7 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
@@ -70,4 +69,4 @@ Hi, I’m **Abhinandan Rai**, a **Data Analyst / Data Engineering–focused prof
 
 ---
 
-![Abhinandan's github stats](https://github-readme-stats.vercel.app/api?username=abhinandanrai&show_icons=true&hide_border=true)
+![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinandanrai&show_icons=true&hide_border=true)
